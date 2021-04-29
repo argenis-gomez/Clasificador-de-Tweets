@@ -16,5 +16,4 @@ def main():
 
 if __name__ == '__main__':
     MODEL = load_model()
-    print(classify('good morning', MODEL))
-    #main()
+    main()
